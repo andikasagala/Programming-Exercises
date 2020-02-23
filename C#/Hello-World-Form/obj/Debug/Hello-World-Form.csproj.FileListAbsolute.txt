@@ -1,9 +1,0 @@
-D:\github\Programming-Exercises\C#\Hello-World-Form\bin\Debug\Hello-World-Form.exe.config
-D:\github\Programming-Exercises\C#\Hello-World-Form\bin\Debug\Hello-World-Form.exe
-D:\github\Programming-Exercises\C#\Hello-World-Form\bin\Debug\Hello-World-Form.pdb
-D:\github\Programming-Exercises\C#\Hello-World-Form\obj\Debug\Hello-World-Form.csprojAssemblyReference.cache
-D:\github\Programming-Exercises\C#\Hello-World-Form\obj\Debug\Hello_World_Form.Form1.resources
-D:\github\Programming-Exercises\C#\Hello-World-Form\obj\Debug\Hello_World_Form.Properties.Resources.resources
-D:\github\Programming-Exercises\C#\Hello-World-Form\obj\Debug\Hello-World-Form.csproj.GenerateResource.cache
-D:\github\Programming-Exercises\C#\Hello-World-Form\obj\Debug\Hello-World-Form.exe
-D:\github\Programming-Exercises\C#\Hello-World-Form\obj\Debug\Hello-World-Form.pdb
