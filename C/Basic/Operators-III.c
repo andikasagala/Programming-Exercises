@@ -33,7 +33,7 @@ if( (VariableA==1) && (VariableB==2))
 else
     {
         printf("False\n");
-        printf("Operators Logical ( && ). VariableA=1 && Variable=2 \n");
+        printf("Operators Logical ( && ). is not VariableA=1 && Variable=2 \n");
         printf("______________________________________________________\n");
     }
     
@@ -48,7 +48,7 @@ if( (VariableA==7) || (VariableB==2))
 else
     {
         printf("False\n");
-        printf("Operators Logical ( || ). VariableA=7 || Variable=2 \n");
+        printf("Operators Logical ( || ). is not VariableA=7 || Variable=2 \n");
         printf("______________________________________________________\n");
     }
     
