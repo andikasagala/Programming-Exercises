@@ -25,7 +25,6 @@ printf("Variable B value is: %d \n", VariableB);
 printf("Variable C value is: %d \n", VariableC);
 printf("Variable D value is: %d \n", VariableD);
 
-    
 
 return 0;   
 }
