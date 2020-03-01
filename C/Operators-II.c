@@ -20,6 +20,8 @@ int VariableB=2;
   
 printf("___________________\n");
 printf("Operators Relational!!!\n");
+printf("Variable A value is: 1 \n");
+printf("Variable B value is: 2 \n");
 printf("====================\n");
 if( VariableA < VariableB)
 {
