@@ -65,7 +65,7 @@ if( !(VariableA==2))
 else
     {
         printf("False\n");
-        printf("Operators Logical ( ! ). ! VariableA=1 \n");
+        printf("Operators Logical .  VariableA=1 \n");
         printf("______________________________________________________\n");
     }
     
