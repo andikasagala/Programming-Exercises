@@ -65,6 +65,56 @@ printf("false");
 printf("______________________________________\n");
     
     
+
+
+
     
+printf("______________________________________\n");
+if( a ^ b )
+{
+
+printf("true \n");
+printf("Operators Bitwise ( ^ ) a value = %d ^ b value = %d \n", a,b);
+}
+else
+{
+printf("false");
+}
+    
+printf("______________________________________\n");
+    
+
+printf("______________________________________\n");
+if( a ^ b )
+{
+
+printf("true \n");
+printf("Operators Bitwise ( ^ ) a value = %d ^ b value = %d \n", a,b);
+}
+else
+{
+printf("false");
+}
+    
+printf("______________________________________\n");
+    
+
+printf("______________________________________\n");
+if( a ^ b )
+{
+
+printf("true \n");
+printf("Operators Bitwise ( ^ ) a value = %d ^ b value = %d \n", a,b);
+}
+else
+{
+printf("false");
+}
+    
+printf("______________________________________\n");
+    
+
+
+
 return 0;   
 }
