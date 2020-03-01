@@ -35,6 +35,10 @@ int Arithmetic_Module_Operator_Var1=16;
 int Arithmetic_Module_Operator_Var2=3;
 int Arithmetic_Module_Operator_VarResult;
 
+int Arithmetic_Increment=1;
+
+int Arithmetic_Decrement=2;
+
 Arithmetic_Addition_VarResult= Arithmetic_Addition_Var1 + Arithmetic_Addition_Var2;
 Arithmetic_Subtraction_VarResult= Arithmetic_Subtraction_Var1 - Arithmetic_Subtraction_Var2;
 Arithmetic_Multiplication_VarResult= Arithmetic_Multiplication_Var1 * Arithmetic_Multiplication_Var2;
@@ -47,7 +51,23 @@ printf("Operator Arithmetic Multiplication ( * ) with result value: %d \n" , Ari
 printf("Operator Arithmetic Division ( / ) with result value: %d \n" , Arithmetic_Division_VarResult);
 printf("Operator Arithmetic Module Operator ( % ) with result value: %d \n" , Arithmetic_Module_Operator_VarResult);
 
+printf("______________________________\n");
+printf("Operator Arithmetic Increment\n");
+printf("______________________________\n");
 
+for(Arithmetic_Increment=0; Arithmetic_Increment <=5;Arithmetic_Increment++)
+{
+    printf("Arithmetic Increment %d: %d \n", Arithmetic_Increment,Arithmetic_Increment);
+}
+printf("______________________________\n");
+
+printf("Operator Arithmetic Decrement\n");
+printf("______________________________\n");
+
+for (Arithmetic_Decrement=5;Arithmetic_Decrement >=0;Arithmetic_Decrement--)
+{
+     printf("Arithmetic Decrement %d: %d \n", Arithmetic_Decrement,Arithmetic_Decrement);
+}
 
 
 
