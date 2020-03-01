@@ -4,7 +4,7 @@
 /*
 #############################################################
 #                                                           #
-#           	---== Variable ==---                        #
+#           	---== Variable III double ==---               #
 #                                                           #
 #                                                           #
 #               Coder: Andika Sagala                        #
@@ -15,15 +15,15 @@
 
 int main ()
 {
-int VariableA=1;
-int VariableB=2;
-int VariableC=3;
-int VariableD=4;
+double VariableA=0.1;
+double VariableB=0.2;
+double VariableC=0.3;
+double VariableD=0.4;
 
-printf("Variable A value is: %d \n", VariableA);
-printf("Variable B value is: %d \n", VariableB);
-printf("Variable C value is: %d \n", VariableC);
-printf("Variable D value is: %d \n", VariableD);
+printf("Variable A value is: %f \n", VariableA);
+printf("Variable B value is: %f \n", VariableB);
+printf("Variable C value is: %f \n", VariableC);
+printf("Variable D value is: %f \n", VariableD);
 
 
 return 0;   

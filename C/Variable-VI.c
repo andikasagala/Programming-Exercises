@@ -4,7 +4,7 @@
 /*
 #############################################################
 #                                                           #
-#           	---== Variable ==---                        #
+#      	---== Variable VI Calculation Result ==---          #
 #                                                           #
 #                                                           #
 #               Coder: Andika Sagala                        #
@@ -15,16 +15,13 @@
 
 int main ()
 {
-int VariableA=1;
-int VariableB=2;
-int VariableC=3;
-int VariableD=4;
 
-printf("Variable A value is: %d \n", VariableA);
-printf("Variable B value is: %d \n", VariableB);
-printf("Variable C value is: %d \n", VariableC);
-printf("Variable D value is: %d \n", VariableD);
+float const Pi=3.14;
+float CircleResult;
+float rValue=7;
 
+CircleResult=Pi*rValue*rValue;
+printf("The circle result is ( π x r x r): %f \n", CircleResult);
 
 return 0;   
 }

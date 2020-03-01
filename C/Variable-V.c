@@ -4,7 +4,7 @@
 /*
 #############################################################
 #                                                           #
-#           	---== Variable ==---                        #
+#           	---== Variable V string ==---               #
 #                                                           #
 #                                                           #
 #               Coder: Andika Sagala                        #
@@ -15,15 +15,15 @@
 
 int main ()
 {
-int VariableA=1;
-int VariableB=2;
-int VariableC=3;
-int VariableD=4;
+char VariableA[]="Banana";
+char VariableB[]="Apple";
+char VariableC[]="Watermelon";
+char VariableD[]="Kiwi";
 
-printf("Variable A value is: %d \n", VariableA);
-printf("Variable B value is: %d \n", VariableB);
-printf("Variable C value is: %d \n", VariableC);
-printf("Variable D value is: %d \n", VariableD);
+printf("Variable A value is: %s \n", VariableA);
+printf("Variable B value is: %s \n", VariableB);
+printf("Variable C value is: %s \n", VariableC);
+printf("Variable D value is: %s \n", VariableD);
 
 
 return 0;   
