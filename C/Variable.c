@@ -15,10 +15,10 @@
 
 int main ()
 {
-VariableA=1;
-VariableB=2;
-VariableC=3;
-VariableD=4;
+int VariableA=1;
+int VariableB=2;
+int VariableC=3;
+int VariableD=4;
 
 printf("Variable A value is: %d \n", VariableA);
 printf("Variable B value is: %d \n", VariableB);
