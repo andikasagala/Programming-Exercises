@@ -23,7 +23,7 @@ printf("Operators Logical!!!\n");
 printf("Variable A value is: 1 \n");
 printf("Variable B value is: 2 \n");
 printf("====================\n");
-if( VariableA==1 && VariableB==2)
+if( (VariableA==1) && (VariableB==2))
 {
     printf ("True\n");
     printf("Operators Logical ( && ). VariableA=1 && Variable=2 \n");
@@ -38,7 +38,7 @@ else
     }
     
 
-if( VariableA==7 || VariableB==2)
+if( (VariableA==7) || (VariableB==2))
 {
     printf ("True\n");
     printf("Operators Logical ( || ). VariableA=7 || Variable=2 \n");
@@ -55,17 +55,17 @@ else
 
     
 
-if( !(VariableA==1 && VariableB==2))
+if( !(VariableA==2))
 {
     printf ("True\n");
-    printf("Operators Logical ( ! ). VariableA=1 ! Variable=2 \n");
+    printf("Operators Logical ( ! ). ! VariableA=1 Because the value of Variable A right now is 2  \n");
     printf("______________________________________________________\n");
 
 }
 else
     {
         printf("False\n");
-        printf("Operators Logical ( ! ). VariableA=1 ! Variable=2 \n");
+        printf("Operators Logical ( ! ). ! VariableA=1 \n");
         printf("______________________________________________________\n");
     }
     
