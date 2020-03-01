@@ -15,15 +15,15 @@
 
 int main ()
 {
-int VariableA=1;
-int VariableB=2;
-int VariableC=3;
-int VariableD=4;
+int Variable_A=1;
+int Variable_B=2;
+int Variable_C=3;
+int Variable_D=4;
 
-printf("Variable A value is: %d \n", VariableA);
-printf("Variable B value is: %d \n", VariableB);
-printf("Variable C value is: %d \n", VariableC);
-printf("Variable D value is: %d \n", VariableD);
+printf("Variable A value is: %d \n", Variable_A);
+printf("Variable B value is: %d \n", Variable_B);
+printf("Variable C value is: %d \n", Variable_C);
+printf("Variable D value is: %d \n", Variable_D);
 
 
 return 0;   

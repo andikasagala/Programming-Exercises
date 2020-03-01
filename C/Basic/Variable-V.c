@@ -15,15 +15,15 @@
 
 int main ()
 {
-char VariableA[]="Banana";
-char VariableB[]="Apple";
-char VariableC[]="Watermelon";
-char VariableD[]="Kiwi";
+char Variable_A[]="Banana";
+char Variable_B[]="Apple";
+char Variable_C[]="Watermelon";
+char Variable_D[]="Kiwi";
 
-printf("Variable A value is: %s \n", VariableA);
-printf("Variable B value is: %s \n", VariableB);
-printf("Variable C value is: %s \n", VariableC);
-printf("Variable D value is: %s \n", VariableD);
+printf("Variable A value is: %s \n", Variable_A);
+printf("Variable B value is: %s \n", Variable_B);
+printf("Variable C value is: %s \n", Variable_C);
+printf("Variable D value is: %s \n", Variable_D);
 
 
 return 0;   

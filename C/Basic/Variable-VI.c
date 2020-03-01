@@ -17,11 +17,11 @@ int main ()
 {
 
 float const Pi=3.14;
-float CircleResult;
-float rValue=7;
+float Circle_Result;
+float r_Value=7;
 
-CircleResult=Pi*rValue*rValue;
-printf("The circle result is ( π x r x r): %f \n", CircleResult);
+Circle_Result=Pi*r_Value*r_Value;
+printf("The circle result is ( π x r x r): %f \n", Circle_Result);
 
 return 0;   
 }
