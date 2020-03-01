@@ -52,7 +52,7 @@ printf("Operator Arithmetic Division ( / ) with result value: %d \n" , Arithmeti
 printf("Operator Arithmetic Module Operator ( % ) with result value: %d \n" , Arithmetic_Module_Operator_VarResult);
 
 printf("______________________________\n");
-printf("Operator Arithmetic Increment\n");
+printf("Operator Arithmetic Increment ( ++ )\n");
 printf("______________________________\n");
 
 for(Arithmetic_Increment=0; Arithmetic_Increment <=5;Arithmetic_Increment++)
@@ -61,7 +61,7 @@ for(Arithmetic_Increment=0; Arithmetic_Increment <=5;Arithmetic_Increment++)
 }
 printf("______________________________\n");
 
-printf("Operator Arithmetic Decrement\n");
+printf("Operator Arithmetic Decrement ( -- )\n");
 printf("______________________________\n");
 
 for (Arithmetic_Decrement=5;Arithmetic_Decrement >=0;Arithmetic_Decrement--)
