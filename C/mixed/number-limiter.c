@@ -4,7 +4,7 @@
 /*
 #############################################################
 #                                                           #
-# 		---== Number Limiter ==---       	    #
+# 		---== Numbers Limiter ==---       	    #
 #                                                           #
 #                                                           #
 #               Coder: Andika Sagala                        #
@@ -40,7 +40,7 @@ printf("Input any number (1 digit):");
 scanf("%d", &Number_Var);
 
 //define the condition of statement
-//any number from 0 till 9 will be approved. else will be rejected( limited number )
+//any number from 0 till 9 will be approved. else will be rejected ( limited range of numbers ). also only for 1 digit number
 if( (Number_Var>=0) && (Number_Var<=9) )
 {
 printf("The value is %d\n",Number_Var);
