@@ -14,7 +14,7 @@
 
 int main()
 {
-//declare the variables
+//declare the variable
 int i=0;
 
 
