@@ -13,9 +13,7 @@ Programming Exercises:
 - VB.NET
 
 Coder by Andika Sagala
-<br>
-================================================================================================================================
-<br><br>
+<br><br><br><br>
 Coder's machine specs:
 - OS: Fedora Operating System 64bits https://en.wikipedia.org/wiki/Fedora_(operating_system)
 - RAM: 16GB
