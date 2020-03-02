@@ -33,5 +33,5 @@ printf("Data type CHAR with value: %c \n", Variable_D);
 printf("Data type STRING with value: %s \n", Variable_E);
 
 
-return 0
+return 0;
 }
