@@ -1,3 +1,6 @@
+It is free and open source, you can develop nor rewrite it into another programming languages also with your own logic thinking method.
+
+
 Programming Exercises:
 - C
 - C#
