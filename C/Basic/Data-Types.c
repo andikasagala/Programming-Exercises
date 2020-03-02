@@ -25,7 +25,7 @@ char Variable_D='A';
 char Variable_E[]="Hello";
 
 
-//print the output/value
+//print the output/values
 printf("Data type FLOAT with value: %f \n", Variable_A);
 printf("Data type DOUBLE with value: %f \n", Variable_B);
 printf("Data type INT with value: %d \n", Variable_C);
