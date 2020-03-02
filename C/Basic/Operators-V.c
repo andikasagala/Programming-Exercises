@@ -59,7 +59,7 @@ printf("Operators Bitwise ( | ) a value = %d or b value = %d \n", a,b);
 }
 else
 {
-printf("false");
+printf("false\n");
 }
     
 printf("______________________________________\n");
@@ -78,37 +78,37 @@ printf("Operators Bitwise ( ^ ) a value = %d ^ b value = %d \n", a,b);
 }
 else
 {
-printf("false");
+printf("false\n");
 }
     
 printf("______________________________________\n");
     
 
 printf("______________________________________\n");
-if( a ^ b )
+if( a >>= b )
 {
 
 printf("true \n");
-printf("Operators Bitwise ( ^ ) a value = %d ^ b value = %d \n", a,b);
+printf("Operators Bitwise ( a >>= ) a value = %d a >>= b value = %d \n", a,b);
 }
 else
 {
-printf("false");
+printf("false\n");
 }
     
 printf("______________________________________\n");
     
 
 printf("______________________________________\n");
-if( a ^ b )
+if( a <<= b )
 {
 
 printf("true \n");
-printf("Operators Bitwise ( ^ ) a value = %d ^ b value = %d \n", a,b);
+printf("Operators Bitwise ( <<= ) a value = %d <<= b value = %d \n", a,b);
 }
 else
 {
-printf("false");
+printf("false \n");
 }
     
 printf("______________________________________\n");
