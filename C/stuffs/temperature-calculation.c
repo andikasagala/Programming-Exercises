@@ -54,7 +54,6 @@ Celcius_Result=(Celcius_Input * 9/5) + 32;
 
 //print the result
 printf(" %0.2f Celcius is equal with %0.2f Fahrenheit!\n",Celcius_Input,Celcius_Result);
-
 break;
 
 case 2:
@@ -68,12 +67,9 @@ Celcius_Result= Celcius_Input + 273.15;
 
 //print the result
 printf(" %0.2f Celcius is equal with %0.2f Kelvin!\n",Celcius_Input,Celcius_Result);
-
-
 break;
 
 case 3:
-
 
 //input the Fahrenheit value for user
 printf("Input the Fahrenheit value:");
@@ -84,12 +80,9 @@ Fahrenheit_Result=(Fahrenheit_Input - 32) * 5/9;
 
 //print the result
 printf(" %0.2f Fahrenheit is equal with %0.2f Celcius!\n",Fahrenheit_Input,Fahrenheit_Result);
-
-
 break;
 
 case 4:
-
 
 //input the celcius value for user
 printf("Input the Fahrenheit value:");
@@ -100,9 +93,6 @@ Fahrenheit_Result=(Fahrenheit_Input - 32) * 5/9 + 273.15;
 
 //print the result
 printf(" %0.2f Fahrenheit is equal with %0.2f Kelvin!\n",Fahrenheit_Input,Fahrenheit_Result);
-
-
-
 break;
 
 case 5:
@@ -116,10 +106,6 @@ Kelvin_Result=Kelvin_Input - 273.15;
 
 //print the result
 printf(" %0.2f Kelvin is equal with %0.2f Celcius!\n",Kelvin_Input,Kelvin_Result);
-
-
-
-
 break;
 
 case 6:
@@ -133,8 +119,6 @@ Kelvin_Result=(Kelvin_Input - 273.15) * 9/5 + 32;
 
 //print the result
 printf(" %0.2f Kelvin is equal with %0.2f Fahrenheit!\n",Kelvin_Input,Kelvin_Result);
-
-
 break;
 
 case 7:
