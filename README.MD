@@ -19,3 +19,4 @@ Coder's machine specs:
 - RAM: 16GB
 - Procs: Intel i7-8550U 8th Gen
 - Brand: ASUS VivoBook A510U
+- Virtualization: KVM https://en.wikipedia.org/wiki/Kernel-based_Virtual_Machine and VMware https://en.wikipedia.org/wiki/VMware
