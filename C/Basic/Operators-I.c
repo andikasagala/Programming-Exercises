@@ -15,6 +15,8 @@
 
 int main ()
 {
+
+//declare the variables
 int Arithmetic_Addition_Var1=1;
 int Arithmetic_Addition_Var2=1;
 int Arithmetic_Addition_VarResult;
@@ -39,12 +41,15 @@ int Arithmetic_Increment=1;
 
 int Arithmetic_Decrement=2;
 
+
+//calculations
 Arithmetic_Addition_VarResult= Arithmetic_Addition_Var1 + Arithmetic_Addition_Var2;
 Arithmetic_Subtraction_VarResult= Arithmetic_Subtraction_Var1 - Arithmetic_Subtraction_Var2;
 Arithmetic_Multiplication_VarResult= Arithmetic_Multiplication_Var1 * Arithmetic_Multiplication_Var2;
 Arithmetic_Division_VarResult= Arithmetic_Division_Var1 / Arithmetic_Division_Var2;
 Arithmetic_Module_Operator_VarResult= Arithmetic_Module_Operator_Var1 % Arithmetic_Module_Operator_Var2;
 
+//print the result of the calculation
 printf("Operator Arithmetic Addition ( + ) with result value: %d \n" , Arithmetic_Addition_VarResult);
 printf("Operator Arithmetic Subtraction ( - ) with result value: %d \n" , Arithmetic_Subtraction_VarResult);
 printf("Operator Arithmetic Multiplication ( * ) with result value: %d \n" , Arithmetic_Multiplication_VarResult);
@@ -71,5 +76,5 @@ for (Arithmetic_Decrement=5;Arithmetic_Decrement >=0;Arithmetic_Decrement--)
 
 
 
-return 0;   
+return 0;
 }

@@ -15,14 +15,19 @@
 
 int main ()
 {
+
+//declare the variables
 int VariableA=1;
 int VariableB=2;
-  
+
+//print the statements
 printf("___________________\n");
 printf("Operators Logical!!!\n");
 printf("Variable A value is: 1 \n");
 printf("Variable B value is: 2 \n");
 printf("====================\n");
+
+//conditions of statement and print the results
 if( (VariableA==1) && (VariableB==2))
 {
     printf ("True\n");
@@ -36,7 +41,7 @@ else
         printf("Operators Logical ( && ). is not VariableA=1 && Variable=2 \n");
         printf("______________________________________________________\n");
     }
-    
+
 
 if( (VariableA==7) || (VariableB==2))
 {
@@ -51,9 +56,9 @@ else
         printf("Operators Logical ( || ). is not VariableA=7 || Variable=2 \n");
         printf("______________________________________________________\n");
     }
-    
 
-    
+
+
 
 if( !(VariableA==2))
 {
@@ -68,11 +73,11 @@ else
         printf("Operators Logical .  VariableA=1 \n");
         printf("______________________________________________________\n");
     }
-    
 
-    
-    
-     
-    
-return 0;   
+
+
+
+
+
+return 0;
 }

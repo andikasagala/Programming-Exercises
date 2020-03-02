@@ -15,6 +15,8 @@
 
 int main ()
 {
+
+//declare the variables
 int VariableA=5;
 int VariableB=3;
 int VariableC=4;
@@ -37,7 +39,7 @@ int VariableS=5;
 int VariableT=7;
 int VariableU=2;
 
-  
+//print the statements
 printf("___________________\n");
 printf("Operators Assignment!!!\n");
 printf("Variable A value is: 5 \n");
@@ -65,6 +67,7 @@ printf("Variable U value is: 2 \n");
 
 printf("====================\n");
 
+//calculations and print the results
 printf("Operator Assignment ( = ) Variable A = 5. Calculation value: %d \n", VariableA);
 printf("Operator Assignment ( += ) Variable B = Variable B + Variable C. Calculation value: %d \n", VariableB+=VariableC);
 printf("Operator Assignment ( -= ) Variable D = Variable D - Variable E. Calculation value: %d \n", VariableD-=VariableE);
@@ -76,9 +79,9 @@ printf("Operator Assignment ( |= ) Variable N = Variable N | Variable O. Calcula
 printf("Operator Assignment ( ^= ) Variable P = Variable P ^ Variable Q. Calculation value: %d \n", VariableP^=VariableQ);
 printf("Operator Assignment ( <<= ) Variable R = Variable R << Variable S. Calculation value: %d \n", VariableR<<=VariableS);
 printf("Operator Assignment ( >>= ) Variable T = Variable T >> Variable U. Calculation value: %d \n", VariableT>>=VariableU);
-    
-     
 
-    
-return 0;   
+
+
+
+return 0;
 }

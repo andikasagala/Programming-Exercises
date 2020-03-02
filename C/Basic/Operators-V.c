@@ -16,15 +16,21 @@
 int main ()
 {
 
+//declare the variables
 int a=1;
 int b=1;
 int c;
+
+//print the statements
 printf("====================== \n");
 printf("Variable a value is %d \n", a);
 printf("Variable b value is %d \n", b);
 printf("====================== \n");
 
 printf("______________________________________\n");
+
+
+//condition of statements and print the results
 if(~c)
 {
 c=a+b;
@@ -49,7 +55,7 @@ else
 printf("false\n");
 printf("Operators Bitwise ( & ) a value = 1 and b value = 1 \n");
 }
-    
+
 printf("______________________________________\n");
 if( a==10 | b )
 {
@@ -61,14 +67,12 @@ else
 {
 printf("false\n");
 }
-    
+
 printf("______________________________________\n");
-    
-    
 
 
 
-    
+
 printf("______________________________________\n");
 if( a ^ b )
 {
@@ -80,9 +84,9 @@ else
 {
 printf("false\n");
 }
-    
+
 printf("______________________________________\n");
-    
+
 
 printf("______________________________________\n");
 if( a >>= b )
@@ -95,9 +99,9 @@ else
 {
 printf("false\n");
 }
-    
+
 printf("______________________________________\n");
-    
+
 
 printf("______________________________________\n");
 if( a <<= b )
@@ -110,12 +114,12 @@ else
 {
 printf("false \n");
 }
-    
+
 printf("______________________________________\n");
-    
 
 
 
 
-return 0;   
+
+return 0;
 }
