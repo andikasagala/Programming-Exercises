@@ -28,7 +28,7 @@ printf("Array %d value is %d \n",i,Arrays_Var1[i]); //print the arrays value
 }
 
 printf("\n\n________________________ \n");
-printf("Arrays string version!\n");
+printf("Arrays Character version!\n");
 printf("________________________ \n");
 
 
