@@ -27,7 +27,7 @@ int i=1;
 //sample how to use double
 double One_Loop=1.1;
 //sample how to use keywords of const
-const float PI=3.14;
+float const PI=3.14;
 
 
 printf("Fixed value of PI is %f \nLooping version %f\n",PI,One_Loop);
