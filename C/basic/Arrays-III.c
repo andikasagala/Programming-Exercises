@@ -26,10 +26,10 @@ system("clear");
 printf("---== Multidimensional Arrays ==---\n\n\n");
 printf("Mode: User input\n\n");
 
-//user setting for the colomn and row count
-printf("How many array's colomn?");
-scanf("%d", &i);
+//user setting for the column and row count
 printf("How many array's row?");
+scanf("%d", &i);
+printf("How many array's column?");
 scanf("%d", &j);
 
 //looping I
