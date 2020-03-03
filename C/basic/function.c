@@ -42,7 +42,7 @@ return 0;
 double Circle_Area(float r_Value)
 {
 //declare the variables
-float const PI=3.14; //fixed value using const
+const float PI=3.14; //fixed value using const
 double Circle_Result;
 
 //calculation with Circle Area formula

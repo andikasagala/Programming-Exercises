@@ -17,7 +17,7 @@ int main ()
 {
 
 //declare the variables
-float const Pi=3.14;
+const float Pi=3.14;
 float Circle_Result;
 float r_Value=7;
 
