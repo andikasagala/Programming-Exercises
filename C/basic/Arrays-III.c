@@ -4,7 +4,7 @@
 /*
 #############################################################
 #                                                           #
-#   ---== Arrays II Multidimensional Arrays Input ==---     #
+#   ---== Arrays III Multidimensional Arrays Input ==---    #
 #                                                           #
 #                                                           #
 #               Coder: Andika Sagala                        #
