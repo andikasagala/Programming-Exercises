@@ -4,7 +4,7 @@
 /*
 #############################################################
 #                                                           #
-#                 ---== Data Types ==---                    #
+#             ---== Data Types I Basic ==---                #
 #                                                           #
 #                                                           #
 #               Coder: Andika Sagala                        #
@@ -29,7 +29,7 @@ long long int Variable_I = 2;
 unsigned int Variable_J = 1;
 
 //print the output/values
-printf("Data type 'FLOAT'with value: %f \n", Variable_A);
+printf("Data type 'FLOAT' with value: %f \n", Variable_A);
 printf("Data type 'FLOAT' Double with value: %f \n", Variable_B);
 printf("Data type 'INT' with value: %d \n", Variable_C);
 printf("Data type 'CHAR' with value: %c \n", Variable_D);
