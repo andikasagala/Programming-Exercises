@@ -31,7 +31,7 @@ References list:
 
 <br><br>
 Coder by Andika Sagala
-<br><br><br><br>
+<br>
 Coder's machine specs:
 - OS: Fedora Operating System 64 bits https://en.wikipedia.org/wiki/Fedora_(operating_system) and Windows 10 Operating System 64 bits https://en.wikipedia.org/wiki/Microsoft_Windows
 - RAM: 16 GB
