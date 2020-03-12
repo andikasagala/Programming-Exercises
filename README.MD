@@ -19,7 +19,7 @@ Programming Languages Exercise:
 - Assembly
 - VB.NET
 
-
+<br><br>
 
 References list:
 - http://www.cplusplus.com
@@ -29,6 +29,7 @@ References list:
 - Books which bought at https://www.amazon.com
 - Some University Science articles ( United States ). IE: https://www.cs.uic.edu/~jbell/CourseNotes/C_Programming/ and many others.
 
+<br><br>
 Coder by Andika Sagala
 <br><br><br><br>
 Coder's machine specs:
