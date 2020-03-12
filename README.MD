@@ -21,6 +21,9 @@ Programming Languages Exercise:
 
 <br><br>
 
+Coder by Andika Sagala
+
+<br><br>
 References list:
 - http://www.cplusplus.com
 - https://www.wikipedia.org
@@ -30,7 +33,7 @@ References list:
 - Some University Science articles ( United States ). IE: https://www.cs.uic.edu/~jbell/CourseNotes/C_Programming/ and many others.
 
 <br><br>
-Coder by Andika Sagala
+
 <br>
 Coder's machine specs:
 - OS: Fedora Operating System 64 bits https://en.wikipedia.org/wiki/Fedora_(operating_system) and Windows 10 Operating System 64 bits https://en.wikipedia.org/wiki/Microsoft_Windows
