@@ -36,7 +36,7 @@ References list:
 
 <br>
 Coder's machine specs:<br>
-- OS: Fedora Operating System 64 bits https://en.wikipedia.org/wiki/Fedora_(operating_system) and Windows 10 Operating System 64 bits https://en.wikipedia.org/wiki/Microsoft_Windows ( Spain OS region )<br>
+- OS: Fedora Operating System 64 bits https://en.wikipedia.org/wiki/Fedora_(operating_system) and Windows 10 Operating System 64 bits https://en.wikipedia.org/wiki/Microsoft_Windows ( Italy region )<br>
 - RAM: 16 GB<br>
 - Procs: Intel i7-8550U 8th Gen<br>
 - Brand: ASUS VivoBook A510U<br>
