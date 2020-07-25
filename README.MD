@@ -42,7 +42,7 @@ Coder's machine specs:<br>
 - Brand: ASUS VivoBook A510U<br>
 - Virtualizations: KVM https://en.wikipedia.org/wiki/Kernel-based_Virtual_Machine and VMware https://en.wikipedia.org/wiki/VMware<br>
 - Text editors: nano https://en.wikipedia.org/wiki/GNU_nano , Kate https://en.wikipedia.org/wiki/Kate_(text_editor) and Vim https://en.wikipedia.org/wiki/Vim_(text_editor)<br>
-
+- Anti Virus: Avira https://en.wikipedia.org/wiki/Avira ( Windows Version )
 
 
 
